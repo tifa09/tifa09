@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tifa09
+- 👋 Hi, I’m Alisom
 - 👀 I’m interested in base language
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on ...XX
